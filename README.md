@@ -1,5 +1,14 @@
 # YOUTUBE-FILMES
 
+
+<item>
+<title>[COLOR silver][B] GAROTO 7  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>ky3D21Caxyg</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/wWVRQoWvsx2u9UvTOmMabKtZLWG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sam é um jovem de 18 anos de idade que acorda em um metrô cheio de gente sem a menor ideia de quem é e nem de como chegou até ali. Tenta encontrar pistas na mochila que carrega, mas logo percebe que sua vida está em perigo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] HACKERS - PIRATAS DO COMPUTADOR 1995 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <utube>ME4ourvD5U4</utube>
