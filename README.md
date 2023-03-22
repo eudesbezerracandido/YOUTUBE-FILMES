@@ -39,3 +39,19 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Ao fundar o polêmico site WikiLeaks, Julian Assange conta com o apoio do amigo Daniel Domscheit-Berg. O objetivo da página é fornecer uma plataforma para que denunciantes, anonimamente, exponham segredos do governo e crimes corporativos. Com o crescimento do site, a dupla logo passa a dar mais furos noticiosos do que a mídia convencional. O grau de influência de Assange aumenta, e a relação entre os dois amigos acaba bastante abalada.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] REDE SOCIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>g_SLnNmElLI</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SNODEN - HEROI OU TRAIDOR  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>2mxA8zggX7I</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/glgKZrHcgsHJ8uBwWg8eeTNZQJk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Filme de Oliver Stone sobre Edward Snowden, ex-funcionário da CIA que divulgou para a imprensa uma série de documentos sigilosos da Agência de Segurança Nacional dos EUA que comprovaram atos de espionagem do governo norte-americano.</info>
+</item>
