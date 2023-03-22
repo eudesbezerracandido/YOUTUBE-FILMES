@@ -1,6 +1,15 @@
 # YOUTUBE-FILMES
 
 
+
+<item>
+<title>[COLOR silver][B] HACKER  - JOGOS DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>X2k400WhFJY</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/wp0pKfyNhAE2EgWapYWNl5Zm4v5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem (Matthew Broderick) aficcionado por informática conecta seu micro acidentalmente ao sistema de defesa americano, controlado por um computador ultrasofisticado. O acidente provoca um estado de alerta, que pode acabar causando a Terceira Guerra Mundial.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] GAROTO 7  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <utube>ky3D21Caxyg</utube>
