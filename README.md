@@ -1,6 +1,13 @@
 # YOUTUBE-FILMES
 
 
+<item>
+<title>[COLOR silver][B] CAÇADA VIRTUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>4BYka0p_LAI</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/vQk9GLOjM7gAfqHdWWzt7emGP16.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Kevin Mitnick (Skeet Urlich) é possivelmente o melhor hacker que existe no mundo. Sempre procurando por mais informações confidenciais, tentando ganhar mais cyber-prêmios a cada dia, ele busca constantemente novas conquistas. Quando entra no sistema de um perito em segurança virtual e ex-hacker, encontra um desafio aparentemente impossível de superar. Baseado em uma história real.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HACKER  - JOGOS DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
